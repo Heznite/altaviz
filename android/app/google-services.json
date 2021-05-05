@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035741655959",
+    "project_id": "altaviz",
+    "storage_bucket": "altaviz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035741655959:android:d8681cb4f5154f6bac0ad2",
+        "android_client_info": {
+          "package_name": "com.eniolaolatubosun.altaviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035741655959-e0scpts6g8r2q6qo5d171ltr4l072pdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eniolaolatubosun.altaviz",
+            "certificate_hash": "54caec3a4cf9c65f14ffb3326a9e819fb352ec9b"
+          }
+        },
+        {
+          "client_id": "1035741655959-ogi52679jipj7ceed3jdqskbh13q6ggu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG_2ebqErJLXbRYe4J9dq1B0uU28qFWag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035741655959-ogi52679jipj7ceed3jdqskbh13q6ggu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
